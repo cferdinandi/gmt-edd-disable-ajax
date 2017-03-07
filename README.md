@@ -1,6 +1,8 @@
 # GMT EDD Disable AJAX
 Reenables the "Disable AJAX Checkout" functionality in Easy Digital Downloads.
 
+***WARNING:*** *Use at your own risk. The creators of EDD claim [disabling AJAX can cause issues and conflicts](https://github.com/easydigitaldownloads/easy-digital-downloads/issues/4758).*
+
 [Download](https://github.com/cferdinandigmt-edd-disable-ajax/archive/master.zip)
 
 
